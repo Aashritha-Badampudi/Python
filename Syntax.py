@@ -1,3 +1,5 @@
+#Day 1
+
 """Syntax rules:
 case sensitive
 Indentation matters
