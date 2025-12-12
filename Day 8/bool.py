@@ -12,3 +12,6 @@
 # 8️ set() (empty set)
 # 9️ () (empty tuple)
 # 10 None 
+#Becomes true in & when both of them are trues othervise false
+#Becomes true in or when one of them are trues othervise false
+#!True=False
