@@ -11,3 +11,5 @@ print(bool([]))
 print(bool(True))
 print(bool("False")) #No matter what the string is but it is not empty there is a string in that so its true
 print(bool([0]))
+print(bool(-10))
+print(bool(0.00001))
