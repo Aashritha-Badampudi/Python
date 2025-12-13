@@ -1,0 +1,8 @@
+print(not (1 or 1 or 1))
+print(not (1 or 1 or 0))
+print(not (1 or 0 or 1))
+print(not (1 or 0 or 0))
+print(not (0 or 1 or 1))
+print(not (0 or 1 or 0))
+print(not (0 or 0 or 1))
+print(not (0 or 0 or 0))
