@@ -8,4 +8,8 @@ Tuples are used when:
 > Faster performance is needed
 > You want fixed data
 
+Ordered
+Indexed
+Immutable (cannot be changed)
+
 """
