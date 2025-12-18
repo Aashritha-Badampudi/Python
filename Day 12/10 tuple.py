@@ -1,0 +1,4 @@
+#Nested tuples
+t = ((1, 2),(3, 4))
+print(t[0])
+print(t[0][1])
