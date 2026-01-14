@@ -5,3 +5,5 @@ for i in range(1,6):
     print(i)
 else:
     print("Loop completed.")
+
+#If break is there the else statement gets skipped
