@@ -2,6 +2,6 @@
 def my_fun(animal,name):
     print("My ",animal,"'s ","name is ",name)
 
-my_fun("Dog","Buddy")
-my_fun("Cat","Tommy")
-my_fun("Rat","Jerry")
+my_fun(animal="Dog",name="Buddy")
+my_fun(animal="Cat",name="Tommy")
+my_fun(animal="Rat",name="Jerry")
