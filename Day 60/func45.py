@@ -1,0 +1,10 @@
+#Nested scope
+def outer():
+    x=10
+
+    def inner():
+        print(x)
+
+    inner()
+
+outer()
