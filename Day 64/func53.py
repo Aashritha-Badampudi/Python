@@ -1,3 +1,4 @@
+#Simple example
 def decorator_function(func):
     
     def wrapper(name):
