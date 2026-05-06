@@ -1,3 +1,3 @@
 cars = ["Ford", "Volvo", "BMW"]
-cars.pop(2)
+cars.pop(0)
 print(cars)
